@@ -11,5 +11,5 @@
 ### 6. npm install
 ### 7. npm run dev
 
-Admin credentials: admin@clean-me.test : password
-Client credentials: client@clean-me.test : password
+Admin credentials: admin@clean-me.at : password
+Client credentials: client@clean-me.at : password
