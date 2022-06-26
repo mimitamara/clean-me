@@ -1,0 +1,65 @@
+.intro-section {
+  background-color: #f6f6f6;
+  position: relative;
+
+  .text-margin {
+    @include media-breakpoint-up(lg) {
+      margin-left: -100px;
+      margin-top: -50px;
+    }
+  }
+
+  .circle-3 {
+    width: 400px;
+    height: 400px;
+    background-color: #e2e6ef;
+    border-radius: 50%;
+    position: absolute;
+    right: -100px;
+    bottom: -100px;
+  }
+}
+
+.we-offer {
+  background-color: #b2bbce;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  position: relative;
+  z-index: 1;
+
+  .offer-item {
+    .offer-title {
+      margin-top: 1rem;
+      height: 3rem;
+      p {
+        line-height: 1;
+      }
+    }
+  }
+}
+
+.join-the-community {
+  background-color: #f6f6f6;
+  position: relative;
+
+  h3 {
+    z-index: 11;
+  }
+
+  .circle-block {
+    position: absolute;
+    max-width: 400px;
+    top: -50px;
+  }
+
+  .register-form {
+    border-radius: 3.5rem !important;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
+    z-index: 11;
+    position: relative;
+    background: #f6f6f6;
+    input {
+      border-radius: 0.75rem;
+    }
+  }
+}

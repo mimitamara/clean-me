@@ -1,0 +1,21 @@
+.about-us {
+  .info-block {
+    padding-bottom: 225px !important;
+    @include media-breakpoint-up(lg) {
+      padding-bottom: 75px !important;
+    }
+
+    .quote {
+      font-size: 2.25rem;
+      line-height: 1;
+      margin-right: 2rem;
+      display: block;
+    }
+    .girls {
+      position: absolute;
+      bottom: 0;
+      right: -2rem;
+      width: 375px;
+    }
+  }
+}

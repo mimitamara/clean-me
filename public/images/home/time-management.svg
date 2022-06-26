@@ -1,0 +1,994 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="376" height="235" viewBox="0 0 376 235">
+    <defs>
+        <linearGradient id="6mbbd" x1="-9.65" x2="-9.02" y1="183.92" y2="183.92" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#a8a0a0"/>
+            <stop offset=".15" stop-color="#fbfcfd"/>
+            <stop offset=".29" stop-color="#eff3f8"/>
+            <stop offset=".44" stop-color="#dbe4f0"/>
+            <stop offset=".58" stop-color="#bfcfe4"/>
+            <stop offset=".73" stop-color="#9bb4d6"/>
+            <stop offset=".87" stop-color="#7094c4"/>
+            <stop offset="1" stop-color="#4373b2"/>
+        </linearGradient>
+        <linearGradient id="6mbbf" x1="-9.65" x2="-9.02" y1="183.92" y2="183.92" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#a8a0a0"/>
+            <stop offset=".15" stop-color="#fbfcfd"/>
+            <stop offset=".29" stop-color="#eff3f8"/>
+            <stop offset=".44" stop-color="#dbe4f0"/>
+            <stop offset=".58" stop-color="#bfcfe4"/>
+            <stop offset=".73" stop-color="#7229b5"/>
+            <stop offset=".87" stop-color="#8f7ca6"/>
+            <stop offset="1" stop-color="#5a4eb3"/>
+        </linearGradient>
+        <linearGradient id="6mbbh" x1=".49" x2="1.07" y1="235.1" y2="235.1" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#a8a0a0"/>
+            <stop offset=".15" stop-color="#fbfcfd"/>
+            <stop offset=".29" stop-color="#eff3f8"/>
+            <stop offset=".44" stop-color="#dbe4f0"/>
+            <stop offset=".58" stop-color="#bfcfe4"/>
+            <stop offset=".73" stop-color="#9bb4d6"/>
+            <stop offset=".87" stop-color="#7094c4"/>
+            <stop offset="1" stop-color="#4373b2"/>
+        </linearGradient>
+        <clipPath id="6mbba">
+            <path d="M.495 235.016V0h375.01v235.016z"/>
+        </clipPath>
+        <clipPath id="6mbbb">
+            <path d="M.495 235.016V0h375.01v235.016z"/>
+        </clipPath>
+        <clipPath id="6mbbc">
+            <path d="M16.945 180.695V0h358.56v180.695z"/>
+        </clipPath>
+        <clipPath id="6mbbe">
+            <path d="M.495 199.034V51.61h240v147.425z"/>
+        </clipPath>
+        <clipPath id="6mbbg">
+            <path d="M222.359 192.78L197.604 61.656h-12.719V54.85a3.24 3.24 0 0 0-6.48 0v6.806h-15.48V54.85a3.24 3.24 0 0 0-6.48 0v6.806h-15.481V54.85a3.24 3.24 0 0 0-6.48 0v6.806h-15.48V54.85a3.24 3.24 0 1 0-6.48 0v6.806h-15.48V54.85a3.24 3.24 0 0 0-6.481 0v6.806h-15.48V54.85a3.24 3.24 0 0 0-6.48 0v6.806H43.384L18.63 192.781C7.14 193.408.495 194.149.495 194.943c0 2.26 53.726 4.091 120 4.091 66.275 0 120-1.831 120-4.09 0-.795-6.646-1.536-18.136-2.163"/>
+        </clipPath>
+        <clipPath id="6mbbi">
+            <path d="M76.19 207.198v-7.979h4.102v7.98z"/>
+        </clipPath>
+        <clipPath id="6mbbj">
+            <path d="M76.05 163.6v-2.504h5.523v2.504z"/>
+        </clipPath>
+        <clipPath id="6mbbk">
+            <path d="M50.298 181.657v-8.15h8.08v8.15z"/>
+        </clipPath>
+        <clipPath id="6mbbl">
+            <path d="M52.744 179.963v-12.557h9.674v12.557z"/>
+        </clipPath>
+        <clipPath id="6mbbm">
+            <path d="M45.627 171.246v-6.397H49v6.397z"/>
+        </clipPath>
+        <clipPath id="6mbbn">
+            <path d="M60.379 137.607v-9.9h5.085v9.9z"/>
+        </clipPath>
+        <clipPath id="6mbbo">
+            <path d="M296.66 106.674V55.422h50.01v51.252z"/>
+        </clipPath>
+        <clipPath id="6mbbp">
+            <path d="M291.698 104.562V84.196h16.928v20.366z"/>
+        </clipPath>
+        <clipPath id="6mbbq">
+            <path d="M306.776 115.273V83.228h45.728v32.045z"/>
+        </clipPath>
+        <clipPath id="6mbbr">
+            <path d="M301.917 124.6v-20.3h13.75v20.3z"/>
+        </clipPath>
+        <clipPath id="6mbbs">
+            <path d="M112.4 203.385v-35.34h69.922v35.34z"/>
+        </clipPath>
+        <clipPath id="6mbbt">
+            <path d="M153.288 214.755v-28.146h41.95v28.146z"/>
+        </clipPath>
+        <clipPath id="6mbbu">
+            <path d="M119.788 214.207v-6.96h73.705v6.96z"/>
+        </clipPath>
+        <clipPath id="6mbbv">
+            <path d="M163.88 218.535V200.79h30.817v17.744z"/>
+        </clipPath>
+        <clipPath id="6mbbw">
+            <path d="M307.615 128.75v-6.917h6.998v6.917z"/>
+        </clipPath>
+        <clipPath id="6mbbx">
+            <path d="M319.326 160.62v-5.505h10.442v5.506z"/>
+        </clipPath>
+        <clipPath id="6mbby">
+            <path d="M326.718 134.927v-10.738h8.122v10.738z"/>
+        </clipPath>
+    </defs>
+    <g>
+        <g>
+            <g/>
+            <g clip-path="url(#6mbba)">
+                <g>
+                    <g/>
+                    <g clip-path="url(#6mbbb)" opacity=".62">
+                        <g opacity=".62">
+                            <g opacity=".62">
+                                <g opacity=".62">
+                                    <path fill="#c2a4dd" d="M16.945 180.695V0h358.56v180.695z"/>
+                                </g>
+                                <g clip-path="url(#6mbbc)" opacity=".62">
+                                    <path fill="#c2a4dd"
+                                          d="M317.27 168.306c-49.558 14.459-102.41 15.7-153.075 6.641-25.148-4.497-49.843-11.527-73.623-20.858-18.72-7.344-49.691-16.574-61.665-33.828-8.006-11.537-11.784-24.787-11.956-38.8l-.003-.305c-.181-19.268 7.592-39.795 27.47-44.411 41.466-9.629 103.265 11.719 161.411-10.22 58.147-21.938 95.368-40.905 136.846-11.307 41.48 29.597 49.599 131.445-10.64 148.8a4637.388 4637.388 0 0 0-14.765 4.288"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M240.496 194.943c0 2.26-53.726 4.09-120 4.09-66.275.001-120.001-1.83-120.001-4.09s53.726-4.09 120-4.09c66.275 0 120 1.83 120 4.09"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M18.275 194.655H171.36l25.108-133H43.384z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#aedcfe" d="M222.713 194.655H69.628l-25.109-133h153.084z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M187.473 70.416a5.828 5.828 0 1 1-11.657 0 5.828 5.828 0 0 1 11.657 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M184.885 69.43a3.24 3.24 0 0 1-6.48 0V54.848a3.24 3.24 0 0 1 6.48 0z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M165.513 70.416a5.828 5.828 0 1 1-11.657 0 5.828 5.828 0 0 1 11.657 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M162.924 69.43a3.24 3.24 0 0 1-6.48 0V54.848a3.24 3.24 0 0 1 6.48 0z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M143.552 70.416a5.828 5.828 0 1 1-11.657 0 5.828 5.828 0 0 1 11.657 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M140.964 69.43a3.24 3.24 0 0 1-6.48 0V54.848a3.24 3.24 0 0 1 6.48 0z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M121.592 70.416a5.828 5.828 0 1 1-11.657 0 5.828 5.828 0 0 1 11.657 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M119.003 69.43a3.24 3.24 0 0 1-6.48 0V54.848a3.24 3.24 0 0 1 6.48 0z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M99.632 70.416a5.828 5.828 0 1 1-11.657 0 5.828 5.828 0 0 1 11.657 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M97.043 69.43a3.24 3.24 0 0 1-6.48 0V54.848a3.24 3.24 0 0 1 6.48 0z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M77.671 70.416a5.828 5.828 0 1 1-11.657 0 5.828 5.828 0 0 1 11.657 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M75.083 69.43a3.24 3.24 0 0 1-6.48 0V54.848a3.24 3.24 0 0 1 6.48 0z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M180.701 100.445h16.755l2.97 16.755h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M161.115 100.445h16.754l2.97 16.755h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M141.528 100.445h16.754l2.97 16.755h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M121.94 100.445h16.755l2.97 16.755h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M102.354 100.445h16.754l2.97 16.755h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M82.767 100.445H99.52l2.97 16.755H85.739z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M63.18 100.445h16.754l2.97 16.755H66.152z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M184.256 119.778h16.754l2.97 16.754h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M164.669 119.778h16.754l2.97 16.754H167.64z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M145.082 119.778h16.754l2.97 16.754h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M125.495 119.778h16.754l2.97 16.754h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M105.908 119.778h16.754l2.97 16.754H108.88z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M86.321 119.778h16.754l2.971 16.754H89.292z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M66.734 119.778h16.754l2.971 16.754H69.705z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M187.65 139.11h16.753l2.971 16.755H190.62z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M168.062 139.11h16.754l2.971 16.755h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M148.475 139.11h16.755l2.97 16.755h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M128.888 139.11h16.755l2.97 16.755H131.86z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M109.301 139.11h16.755l2.97 16.755h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M89.714 139.11h16.755l2.97 16.755H92.685z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M70.128 139.11h16.754l2.97 16.755H73.099z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M191.217 158.444h16.755l2.97 16.754h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M171.63 158.444h16.755l2.97 16.754h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M152.043 158.444h16.755l2.97 16.754h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M132.456 158.444h16.755l2.97 16.754h-16.754z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M112.87 158.444h16.754l2.97 16.754H115.84z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M93.283 158.444h16.754l2.97 16.754H96.254z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M73.696 158.444H90.45l2.97 16.754H76.667z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#ff7c6e" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width="4.26" d="M116.911 100.445l-8.086 14.814"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#ff7c6e" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width="4.26" d="M106.794 102.11l12.149 12.099"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#ff7c6e" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width="4.26" d="M97.07 100.445l-8.086 14.814"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#ff7c6e" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width="4.26" d="M86.952 102.11l12.149 12.099"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#ff7c6e" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width="4.26" d="M76.602 100.445l-8.085 14.814"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#ff7c6e" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width="4.26" d="M66.485 102.11l12.149 12.099"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <g>
+                            <g>
+                                <g>
+                                    <path fill="url(#6mbbd)" d="M.495 199.034V51.61h240v147.425z"/>
+                                </g>
+                                <g clip-path="url(#6mbbe)">
+                                    <g>
+                                        <g>
+                                            <path fill="url(#6mbbf)"
+                                                  d="M222.359 192.78L197.604 61.656h-12.719V54.85a3.24 3.24 0 0 0-6.48 0v6.806h-15.48V54.85a3.24 3.24 0 0 0-6.48 0v6.806h-15.481V54.85a3.24 3.24 0 0 0-6.48 0v6.806h-15.48V54.85a3.24 3.24 0 1 0-6.48 0v6.806h-15.48V54.85a3.24 3.24 0 0 0-6.481 0v6.806h-15.48V54.85a3.24 3.24 0 0 0-6.48 0v6.806H43.384L18.63 192.781C7.14 193.408.495 194.149.495 194.943c0 2.26 53.726 4.091 120 4.091 66.275 0 120-1.831 120-4.09 0-.795-6.646-1.536-18.136-2.163"/>
+                                        </g>
+                                        <g clip-path="url(#6mbbg)" transform="rotate(-69.775 120.495 125.325)">
+                                            <path fill="url(#6mbbh)" d="M9.843 263.406V-12.763h221.305v276.169z"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#d65b47"
+                              d="M65.34 131.3s.835-3.398-.896-4.965c-1.731-1.568-6.826-1.47-9.178 1.372-2.351 2.841-3.466 6.375-1.764 10.045 1.702 3.67 7.814 15.875 12.04 17.857 4.226 1.983 9.321-.754 10.987-6.196 1.665-5.441-1.078-10.81-5.487-13.025-4.41-2.214-5.901-3.357-5.701-5.089"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M92.874 145.136l-.302-.347v-.016c0-.865-.7-1.566-1.566-1.566h-2.09c-.759 0-1.471.364-1.915.978l-7.469 10.327s-3.105-4.166-6.416-8.823c-3.312-4.657-5.485-5.01-5.485-5.01l1.966 13.33 6.467 8.386a3.093 3.093 0 0 0 4.79.134l8.096-9.366 4.198-5.099c.417-.506.524-1.2.277-1.808-.243-.596-.551-1.12-.551-1.12"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M44.614 232.361c0 1.278 11.715 2.315 26.166 2.315s26.166-1.037 26.166-2.315-11.715-2.314-26.166-2.314c-14.45 0-26.166 1.036-26.166 2.314"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M71.667 167.29l2.621 9.826 5.244 24.425 3.726 27.736s3.726.414 3.726 2.76H72.908l-3.88-28.564-5.779-36.183z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M56.576 167.29s-2.785 15.325 1.323 27.271l4.108 11.947-6.353 25.529h16.013s0-2.346-2.484-2.76l3.242-20.495a24.593 24.593 0 0 0-.027-7.854l-3.681-22.294s.948-8.475-.465-11.344c-1.415-2.87-11.676 0-11.676 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M62.007 206.508L57.9 194.561c-4.108-11.947-1.323-27.271-1.323-27.271s2.264-.633 4.811-1.007c-.727 4.233-2.523 17.02.265 27.116 3.391 12.281 4.081 14.213 4.081 14.213l-6.266 24.425h-3.813z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7396c0"
+                              d="M68.252 167.29c1.193 2.422.704 8.838.522 10.78-.27-2.295-2.613-8.77-3.84-12.05 1.579.04 2.877.377 3.318 1.27"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#ff7c6e" d="M56.34 229.277h12.843c2.484.414 2.484 2.76 2.484 2.76H55.654z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#ff7c6e" d="M86.984 232.037H72.908l-.374-2.76h10.724s3.726.414 3.726 2.76"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#441c87"
+                              d="M72.549 207.883a4.11 4.11 0 0 1-.355-8.191l.204 1.236c.38 2.301.43 4.643.15 6.955"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".49">
+                        <g opacity=".49">
+                            <g opacity=".49">
+                                <g opacity=".49"/>
+                                <g clip-path="url(#6mbbi)" opacity=".49">
+                                    <path fill="#2d537a"
+                                          d="M80.276 207.198a4.086 4.086 0 0 1-1.242-7.979l.498 2.321.76 5.658h-.016"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#385445"
+                              d="M61.652 229.691c0 .229.185.414.414.414h6.703a.414.414 0 0 0 0-.828h-6.703a.414.414 0 0 0-.414.414"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#385445"
+                              d="M77.67 229.691c0 .229.185.414.413.414h4.76a.414.414 0 0 0 0-.828h-4.76a.414.414 0 0 0-.414.414"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#0f76a6" stroke-miterlimit="20" stroke-width=".67"
+                              d="M68.717 177.042v0l3.502 21.334a40.28 40.28 0 0 1-.292 15.023l-.942 4.482v0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M58.234 139.8l-7.059 4.989s6.95 11.145 5.337 23.048c7.393 2.38 15.155-.547 15.155-.547l-1.656-12.08s2.07-2.703.931-6.422c-1.138-3.72-3.311-8.108-3.311-8.108l-6.82-1.432z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M54.003 142.79c1.104 1.6 4.175 6.81 1.306 11.722-1.654-5.743-4.134-9.723-4.134-9.723z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".6">
+                        <g opacity=".6">
+                            <g opacity=".6">
+                                <g opacity=".6"/>
+                                <g clip-path="url(#6mbbj)" opacity=".6">
+                                    <path fill="#d25c53"
+                                          d="M79.274 161.096c.835 0 1.618.22 2.298.601l-.719.832a3.092 3.092 0 0 1-4.788-.134l-.014-.018a4.687 4.687 0 0 1 3.223-1.281"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#a33e3e" stroke-miterlimit="20" stroke-width=".67"
+                              d="M79.532 154.512l-1.863 2.25"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M70.277 157.153l1.39 10.137s-7.763 2.926-15.155.546c.4-2.953.272-5.859-.145-8.56 5.909.578 11.674-1.281 13.91-2.123"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#9e3c3c"
+                              d="M68.252 165.873c0 .409.208.74.465.74s.466-.331.466-.74c0-.41-.209-.741-.466-.741s-.465.332-.465.74"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#312d3f"
+                              d="M70.01 155.21s-6.873.782-10.899-.331c-4.026-1.113 3.773 2.665 11.166 2.274z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M58.575 134.565l.75 6.538a1.59 1.59 0 0 0 1.808 1.392l.031-.004a1.589 1.589 0 0 0 1.354-1.724l-.524-5.494z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7a2d33"
+                              d="M62.298 138.457l-.303-3.184-3.42-.708.072.627c.331.53 1.806 2.747 3.651 3.265"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M64.477 127.707s2.22 5.683 0 9.798c-1.503.523-6.336-.914-7.055-4.899 2.744-.85 6.01-2.417 7.055-4.9"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#8e3930" d="M63.069 132.25a.407.407 0 1 1-.813 0v-.545a.406.406 0 0 1 .813 0z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-miterlimit="20" stroke-width=".6"
+                              d="M64.607 131.978v0l.262 1.608v0h-.85v0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#ffffeb" d="M64.869 134.565l-2.613.327s2.02 1.045 2.613-.327"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-miterlimit="20" stroke-width=".6"
+                              d="M63.069 130.515s-.63-.209-1.626.34"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99" d="M58.61 134.251a1.47 1.47 0 1 1-2.94 0 1.47 1.47 0 0 1 2.94 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".6" d="M56.297 133.924l1.904.642"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M57.661 135.94a.682.682 0 1 1-1.364 0 .682.682 0 0 1 1.364 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#ff7c6e"
+                              d="M61.156 125.323c-2.07-.04-4.476.675-5.89 2.384-1.303 1.574-2.223 3.361-2.498 5.266 5.574-1.4 7.632-5.048 8.388-7.65"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#d65b47"
+                              d="M112.823 111.927l-15.178 8.327-56.594 63.28a2.584 2.584 0 0 0 .203 3.649l2.54 2.271 2.54 2.272c1.064.95 2.698.86 3.65-.204l56.594-63.28 6.588-16.009a.244.244 0 0 0-.343-.306"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-48.191 79.275 149.78)">
+                        <path fill="#8ebeed" d="M45.025 155.771v-11.983h68.505v11.983z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-48.191 79.235 149.74)">
+                        <path fill="#7396c0" d="M44.983 152.394v-5.303h68.506v5.303z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-48.191 54.38 177.62)">
+                        <path fill="#473d59" d="M51.284 183.61v-11.983h6.191v11.983z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#f9bbb9"
+                              d="M112.823 111.927l-15.178 8.327 8.933 7.989 6.588-16.01a.244.244 0 0 0-.343-.306"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".53">
+                        <g opacity=".53">
+                            <g opacity=".53">
+                                <g opacity=".53"/>
+                                <g clip-path="url(#6mbbk)" opacity=".53" transform="rotate(-48.191 54.335 177.58)">
+                                    <path fill="#8ebeed" d="M51.243 180.233v-5.303h6.191v5.303z"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M112.823 111.927l-5.893 3.233 3.677 3.29 2.559-6.217a.244.244 0 0 0-.343-.306"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M89.542 142.196s-1.83.431-1.564 1.96c-2.05.445-3.117 4.8-2.55 7.734l5.745-6.423z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".6">
+                        <g opacity=".6">
+                            <g opacity=".6">
+                                <g opacity=".6"/>
+                                <g clip-path="url(#6mbbl)" opacity=".6">
+                                    <path fill="#473d59"
+                                          d="M62.418 177.619l-2.354-2.462-3.564-3.97-1.025-3.781-2.73 3.053 2.425 5.34 5.152 4.164.588-.658z"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M51.175 144.789s-1.656 1.25-2.588 4.697c-.682 2.526-2.144 11.407-2.876 15.973a6.708 6.708 0 0 0 1.199 5.008l8.159 11.23a4.84 4.84 0 0 0 2.812 1.866l.018.004 1.39 1.634a.78.78 0 0 0 1.204-.02l.009-.011a.78.78 0 0 0 .086-.835l-1.477-2.941 1.06.476c.63.281 1.357-.11 1.465-.792l.003-.018a1.05 1.05 0 0 0-.15-.725l-9.797-15.502 3.098-15.347s-1.131-4.459-3.615-4.697"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".6">
+                        <g opacity=".6">
+                            <g opacity=".6">
+                                <g opacity=".6"/>
+                                <g clip-path="url(#6mbbm)" opacity=".6">
+                                    <path fill="#d25c53"
+                                          d="M49.002 168.349a3.512 3.512 0 0 1-1.526 2.897l-.566-.779a6.713 6.713 0 0 1-1.2-5.008l.099-.61a3.515 3.515 0 0 1 3.193 3.5"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M93.086 145.527l-1.792-3.158a1.09 1.09 0 0 0-1.752-.173l-.014.016c-.26.291-.345.699-.223 1.07l.836 2.535-1.169-1.375a.945.945 0 0 0-1.423-.017l-1.14 1.275a1.56 1.56 0 0 0-.378 1.286l.953 5.982z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".68" d="M87.129 144.896l1.181 3.227"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".68" d="M51.692 164.833l-1.647-2.485"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".34">
+                        <g opacity=".34">
+                            <g opacity=".34">
+                                <g opacity=".34"/>
+                                <g clip-path="url(#6mbbn)" opacity=".34">
+                                    <path fill="#fff"
+                                          d="M60.379 131.438c.438 1.902 1.19 4.283 2.427 6.074.69.13 1.289.126 1.67-.007 2.222-4.115 0-9.798 0-9.798-.678 1.612-2.296 2.837-4.097 3.731"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M300.663 104.562s20.685-8.404 26.026-23.454c5.34-15.051 19.815-25.39 19.815-25.39s-42.382 11.352-54.807 47.315z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".38">
+                        <g opacity=".38">
+                            <g opacity=".38">
+                                <g opacity=".38"/>
+                                <g clip-path="url(#6mbbo)" opacity=".38">
+                                    <path fill="none" stroke="#442020" stroke-miterlimit="20" stroke-width="1.18"
+                                          d="M346.504 55.717s-37.603 21.115-49.53 50.831"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".38">
+                        <g opacity=".38">
+                            <g opacity=".38">
+                                <g opacity=".38"/>
+                                <g clip-path="url(#6mbbp)" opacity=".38">
+                                    <path fill="#442020"
+                                          d="M291.698 103.033l8.966 1.529s3.485-1.418 7.962-4.127c-2.5-2.938-4.937-10.89-6.37-16.239-4.34 5.354-8.056 11.596-10.558 18.837"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M301.917 115.711s10.566-15.484 24.95-20.884c5.42-2.033 10.744-4.982 15.243-8.868 3.223-2.783 6.195-8.457 10.894-8.264 9.918.408 2.47 13.367-.275 17.196-9.29 11.57-17.165 10.185-26.939 13.506-9.773 3.322-18.552 15.881-19.452 17.341-.9 1.46-4.421-10.027-4.421-10.027"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".38">
+                        <g opacity=".38">
+                            <g opacity=".38">
+                                <g opacity=".38"/>
+                                <g clip-path="url(#6mbbq)" opacity=".38">
+                                    <path fill="none" stroke="#442020" stroke-miterlimit="20" stroke-width="1.18"
+                                          d="M307.04 115.061v0s10.85-13.541 23.478-16.307c12.627-2.767 21.71-15.327 21.71-15.327v0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".38">
+                        <g opacity=".38">
+                            <g opacity=".38">
+                                <g opacity=".38"/>
+                                <g clip-path="url(#6mbbr)" opacity=".38">
+                                    <path fill="#442020"
+                                          d="M315.589 114.95c.59-4.617-2.331-9.092-3.483-10.649-6.285 5.696-10.19 11.41-10.19 11.41s1.892 6.167 3.257 8.888c.91-.354 1.884-.773 2.858-1.256 1.638-2.173 4.306-5.414 7.558-8.394"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M188.555 199.239s-18.067-9.166-35.774-12.737c-17.707-3.57-33.46-27.866-52.91-28.296 12.018 14.572 14.038 34.17 51.214 40.435 12.469 1.784 30.812 9.193 40.51 15.052 9.7 5.86-3.04-14.454-3.04-14.454"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".38">
+                        <g opacity=".38">
+                            <g opacity=".38">
+                                <g opacity=".38"/>
+                                <g clip-path="url(#6mbbs)" opacity=".38">
+                                    <path fill="#442020"
+                                          d="M182.322 203.385s-18.103-8.493-35.792-10.906c-17.69-2.412-34.13-24.433-34.13-24.433s19.687 20.86 34.187 22.277c14.5 1.417 34.96 9.833 34.96 9.833z"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".38">
+                        <g opacity=".38">
+                            <g opacity=".38">
+                                <g opacity=".38"/>
+                                <g clip-path="url(#6mbbt)" opacity=".38">
+                                    <path fill="#442020"
+                                          d="M153.288 186.609c17.544 3.64 35.267 12.63 35.267 12.63s12.74 20.313 3.041 14.454c-6.514-3.936-16.929-8.568-26.844-11.728z"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#5f5277" stroke-miterlimit="20" stroke-width="2.35"
+                              d="M190.448 190.524v0s-11.166-12.82-27.398-16.545c-16.233-3.725-33.46-12.001-46.747-26.582"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M170.691 176.215s1.942-3.535-1.28-6.817c-1.81 2.486-.372 4.811 1.28 6.817"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M170.691 176.215s-1.048 3.894-5.644 4.03c.415-3.047 3.063-3.729 5.644-4.03"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M161.841 173.72s1.942-3.535-1.279-6.818c-1.811 2.486-.373 4.812 1.28 6.817"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M161.841 173.72s-1.048 3.894-5.644 4.03c.416-3.048 3.064-3.73 5.644-4.03"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M153.983 171.113s1.404-3.78-2.262-6.556c-1.428 2.723.334 4.814 2.262 6.556"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M153.983 171.113s-.468 4.006-4.995 4.812c-.034-3.076 2.486-4.136 4.995-4.812"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M145.957 168.118s1.404-3.78-2.261-6.557c-1.429 2.724.334 4.815 2.261 6.557"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M145.957 168.118s-.467 4.006-4.995 4.812c-.034-3.075 2.487-4.136 4.995-4.812"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M138.645 164.35s2.738-2.96.406-6.923c-2.358 1.975-1.525 4.578-.406 6.924"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M138.645 164.35s-1.957 3.526-6.45 2.548c1.14-2.857 3.873-2.878 6.45-2.547"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M130.938 160.405s2.738-2.961.405-6.924c-2.358 1.975-1.524 4.579-.405 6.924"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M130.938 160.405s-1.958 3.526-6.451 2.547c1.14-2.856 3.873-2.878 6.45-2.547"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M123.952 154.193s2.834-2.869.633-6.906c-2.422 1.896-1.674 4.526-.633 6.906"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M123.952 154.193s-2.072 3.46-6.53 2.335c1.232-2.818 3.965-2.75 6.53-2.335"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M117.599 148.594s-4.02-.337-4.972-4.836c3.072-.134 4.215 2.35 4.972 4.836"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#5f5277"
+                              d="M189.193 215.112s-21.368 8.832-36.246 1.608c-14.878-7.224-33.07-4.334-33.07-4.334s39.518-22.422 74.82-4.917z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".38">
+                        <g opacity=".38">
+                            <g opacity=".38">
+                                <g opacity=".38"/>
+                                <g clip-path="url(#6mbbu)" opacity=".38">
+                                    <path fill="none" stroke="#442020" stroke-miterlimit="20" stroke-width="1.18"
+                                          d="M119.877 212.387s43.086-11.747 73.48 1.51"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".38">
+                        <g opacity=".38">
+                            <g opacity=".38">
+                                <g opacity=".38"/>
+                                <g clip-path="url(#6mbbv)" opacity=".38">
+                                    <path fill="#442020"
+                                          d="M163.88 200.798c9.911-.132 20.542 1.576 30.817 6.672l-3.882 5.39a60.73 60.73 0 0 1 2.543 1.037l-3.242-.067-.923 1.283s-5.112 2.108-12.072 3.422z"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M333.92 134.416l-31.91-26.807-5.217-3.783a1.223 1.223 0 0 0-1.87.579l-.01.023c-.158.445-.046.942.288 1.276l3.54 3.54s-3.106-.327-.98 2.452c2.124 2.78 29.45 29.428 29.45 29.428z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".78" d="M298.74 109.244l4.415 2.78"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M317.294 131.406a3565.53 3565.53 0 0 0 9.917 9.718l6.71-6.708-10.885-9.144z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".6">
+                        <g opacity=".6">
+                            <g opacity=".6">
+                                <g opacity=".6"/>
+                                <g clip-path="url(#6mbbw)" opacity=".6">
+                                    <path fill="#d25c53"
+                                          d="M307.615 121.833c2.242 2.234 4.649 4.615 6.982 6.917.406-6.355-6.981-6.917-6.982-6.917"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M288.173 230.686c0 1.714-23.55 3.104-52.6 3.104s-52.6-1.39-52.6-3.104c0-1.715 23.55-3.104 52.6-3.104s52.6 1.39 52.6 3.104"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-58.227 280.565 74.605)">
+                        <path fill="#7229b5" d="M272.3 82.229V66.98h16.534v15.248z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-58.227 283.29 70.215)">
+                        <path fill="#473d59" d="M280.189 77.835V62.587h6.198v15.248z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M291.783 76.502l-17.945-11.115a3.05 3.05 0 0 1-.987-4.2l3.457-5.582a3.051 3.051 0 0 1 4.2-.988l17.946 11.115a3.052 3.052 0 0 1 .987 4.201l-3.458 5.582a3.051 3.051 0 0 1-4.2.987"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-58.225 278.425 60.775)">
+                        <path fill="#d2bce6" d="M272.093 62.254v-2.95h12.668v2.95z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-58.225 283.585 63.975)">
+                        <path fill="#d2bce6" d="M277.25 65.448v-2.95h12.668v2.95z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-58.225 288.745 67.165)">
+                        <path fill="#d2bce6" d="M282.407 68.642v-2.95h12.668v2.95z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-58.225 293.895 70.365)">
+                        <path fill="#d2bce6" d="M287.564 71.836v-2.95h12.668v2.95z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-31.773 190.43 74.605)">
+                        <path fill="#7229b5" d="M182.806 82.872V66.338h15.248v16.534z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-31.773 187.705 70.21)">
+                        <path fill="#473d59" d="M180.084 73.31v-6.198h15.248v6.198z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M179.214 76.502l17.944-11.115a3.05 3.05 0 0 0 .987-4.2l-3.457-5.582a3.052 3.052 0 0 0-4.201-.988l-17.944 11.115a3.052 3.052 0 0 0-.988 4.201l3.458 5.582a3.051 3.051 0 0 0 4.2.987"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-31.775 192.565 60.775)">
+                        <path fill="#d2bce6" d="M191.094 67.113V54.444h2.95v12.669z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-31.775 187.415 63.975)">
+                        <path fill="#d2bce6" d="M185.937 70.307V57.639h2.95v12.668z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-31.775 182.255 67.165)">
+                        <path fill="#d2bce6" d="M180.78 73.501V60.833h2.95V73.5z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" transform="rotate(-31.775 177.095 70.365)">
+                        <path fill="#d2bce6" d="M175.624 76.695V64.027h2.95v12.668z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5" d="M223.648 73.53V47.813h23.718v25.719z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M223.648 57.453v-9.64h23.718v9.64z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#d2bce6"
+                              d="M319.44 146.936c0-46.362-37.584-83.946-83.946-83.946-46.362 0-83.946 37.584-83.946 83.946 0 46.362 37.584 83.946 83.946 83.946 46.362 0 83.946-37.584 83.946-83.946"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M313.923 146.887c0-43.315-35.113-78.429-78.428-78.429-43.316 0-78.43 35.114-78.43 78.429 0 43.315 35.114 78.428 78.43 78.428 43.315 0 78.428-35.113 78.428-78.428"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff"
+                              d="M308.739 146.776c0-40.452-32.793-73.245-73.245-73.245-40.452 0-73.244 32.793-73.244 73.245 0 40.451 32.792 73.244 73.244 73.244s73.245-32.793 73.245-73.244"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M283.193 176.044c.12-1.574 1.588-2.658 2.856-1.972 2.705 1.464 5.362 3.023 8 4.606.867.521 1.022 1.722.495 2.572-.536.866-1.633 1.177-2.615.634-2.092-1.16-4.155-2.373-6.23-3.567-.484-.279-1.027-.498-1.43-.867-.428-.392-.723-.931-1.076-1.406"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M237.431 208.999c0 1.4.01 2.8-.003 4.2-.01 1.23-.797 2.092-1.893 2.105-1.152.013-1.989-.856-1.993-2.115-.007-2.8-.004-5.6.01-8.4.006-1.315.77-2.136 1.943-2.139 1.168-.002 1.915.816 1.929 2.148.014 1.4.003 2.8.003 4.2z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M297.412 149.007c-1.4 0-2.801.012-4.202-.003-1.342-.016-2.128-.751-2.124-1.947.004-1.134.785-1.897 2.076-1.91 2.832-.028 5.665-.026 8.497-.005 1.219.008 2.065.855 2.053 1.959-.012 1.113-.845 1.88-2.098 1.895-1.4.017-2.801.004-4.202.004z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M208.657 197.135c-.067.17-.179.592-.387.96a758.214 758.214 0 0 1-4.13 7.191c-.629 1.08-1.737 1.434-2.687.9-1.034-.58-1.334-1.687-.7-2.804a645.95 645.95 0 0 1 4.228-7.35c.544-.934 1.467-1.313 2.374-.991.843.299 1.31.909 1.302 2.094"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M264.696 194.947c.27.22.953.548 1.287 1.091 1.464 2.385 2.842 4.823 4.221 7.26.655 1.155.398 2.277-.577 2.849-1.027.601-2.113.262-2.818-.942a479.95 479.95 0 0 1-4.193-7.277c-.805-1.433.087-2.993 2.08-2.981"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M173.586 148.985c-1.401 0-2.802.013-4.202-.004-1.283-.015-2.058-.747-2.059-1.9 0-1.145.782-1.91 2.065-1.923 2.8-.028 5.602-.031 8.403-.018 1.237.006 2.105.814 2.12 1.898.015 1.178-.785 1.926-2.125 1.944-1.401.018-2.802.004-4.202.003"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M178.245 182.148c-1.082-.076-1.7-.514-1.977-1.386-.272-.857.056-1.73.907-2.233 2.194-1.294 4.406-2.558 6.612-3.832.323-.187.644-.377.978-.542 1.026-.506 2.126-.178 2.645.779.492.907.2 1.997-.77 2.578-1.732 1.037-3.492 2.03-5.24 3.04-.699.405-1.387.83-2.102 1.204-.378.197-.802.3-1.053.392"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M237.397 85.206c0 1.398.01 2.797-.003 4.196-.01 1.222-.783 2.055-1.915 2.092-1.01.033-1.892-.836-1.905-2.007a409.345 409.345 0 0 1 0-8.577c.012-1.167.867-1.995 1.924-1.982 1.136.013 1.88.825 1.889 2.082.01 1.4.002 2.798.002 4.196z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M285.509 120.228c-1.082.002-1.723-.405-2.019-1.278-.311-.916-.003-1.781.898-2.317 1.844-1.1 3.714-2.154 5.573-3.226.647-.373 1.283-.767 1.945-1.112.998-.52 2.081-.236 2.617.647.574.945.334 2.053-.693 2.662-2.515 1.493-5.06 2.939-7.601 4.388-.26.148-.58.191-.72.236"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M270.615 89.67c-.157.42-.243.787-.422 1.102a566.562 566.562 0 0 1-4.176 7.265c-.677 1.15-1.761 1.465-2.76.885-.954-.555-1.208-1.647-.57-2.766 1.397-2.453 2.8-4.905 4.257-7.324.803-1.333 2.254-1.45 3.151-.303.252.322.352.76.52 1.142"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M185.408 120.207c-.143-.055-.507-.145-.82-.324a912.012 912.012 0 0 1-7.344-4.246c-.981-.574-1.316-1.746-.795-2.647.514-.89 1.616-1.23 2.602-.68 2.55 1.422 5.08 2.885 7.596 4.368.863.51 1.15 1.381.836 2.244-.31.849-.926 1.296-2.075 1.285"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M208.63 97.053c.021 1.07-.48 1.777-1.364 2.035-.885.257-1.635-.015-2.095-.787a377.152 377.152 0 0 1-4.45-7.646c-.544-.963-.19-2.107.685-2.604.901-.511 1.999-.268 2.582.703 1.502 2.502 2.95 5.035 4.403 7.563.15.26.192.583.24.736"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#d2bce6"
+                              d="M256.553 147.069c0 11.63-9.428 21.058-21.059 21.058-11.63 0-21.058-9.428-21.058-21.058 0-11.63 9.429-21.059 21.058-21.059 11.63 0 21.059 9.428 21.059 21.059"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M241.364 146.776a5.701 5.701 0 1 1-11.402-.001 5.701 5.701 0 0 1 11.402 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M237.588 88.837a1.925 1.925 0 1 0-3.85 0v57.72a1.926 1.926 0 0 0 3.85 0z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M205.324 166.776a1.948 1.948 0 0 1-1.944-3.377l31.288-18.013a1.948 1.948 0 0 1 1.944 3.376z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M251.893 53.994H219.06a4.746 4.746 0 0 1-4.747-4.746V39.035a4.746 4.746 0 0 1 4.747-4.747h32.833a4.746 4.746 0 0 1 4.746 4.747v10.213a4.746 4.746 0 0 1-4.746 4.746"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#d2bce6" d="M219.06 53.994V34.288h4.588v19.706z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#d2bce6" d="M228.495 53.994V34.288h4.588v19.706z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#d2bce6" d="M237.93 53.994V34.288h4.588v19.706z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#d2bce6" d="M247.366 53.994V34.288h4.588v19.706z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#312d3f"
+                              d="M350.804 232.037c0 1.645-13.61 2.979-30.4 2.979s-30.4-1.334-30.4-2.98c0-1.644 13.61-2.978 30.4-2.978s30.4 1.334 30.4 2.979"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M338.631 177.619s-4.96 12.793-12.774 22.073c14.855 26.752 15.5 27.504 15.5 27.504h-19.085l-10.193-27.504z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#312d3f" d="M341.357 227.196l2.153 4.84h-20.02l-1.219-4.84z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M328.335 227.196l-9.235-25.664s9.173-10.524 13.007-15.55l-18.47 14.136 6.168 27.078z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M340.065 170.114s.425 11.983-11.729 21.24l-12.308 8.928 6.244 26.914h-18.37l-5.607-27.653a7.998 7.998 0 0 1 3.024-7.976l18.508-13.949.577-3.916z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#544768" d="M322.272 227.196l1.218 4.84h-26.198s.799-3.657 6.61-4.84z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M307.499 194.577c0-2.291-.824-4.39-2.19-6.016l-3.99 3.005a7.998 7.998 0 0 0-3.024 7.977l.88 4.34c4.681-.518 8.324-4.486 8.324-9.306"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M333.92 171.33s.45 7.4-12.273 17.23c-10.367 7.631-12.566 8.888-12.566 8.888l6.754 29.748"/>
+                        <path fill="none" stroke="#0f76a6" stroke-miterlimit="20" stroke-width=".67"
+                              d="M333.92 171.33v0s.45 7.4-12.273 17.23c-10.367 7.631-12.566 8.888-12.566 8.888v0l6.754 29.748v0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M302.033 163.572s3.937.644 9.08.103c3.093-.325 5.427-.602 6.803-.771.262-1.358.491-2.728.686-4.108z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M322.678 173.287s.797 4.89 4.04 6.019c3.046-3.018 4.18-6.43 4.494-7.576z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M320.404 173.702s10.069 2.603 19.24.276c.472-2.355.421-3.864.421-3.864z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59"
+                              d="M329.062 126.648s-.215-2.12 1.124-3.658c1.34-1.538 6.498-1.092 8.086.347 1.587 1.439 1.085 7.242-2.781 10.516-.99-1.488-6.429-7.205-6.429-7.205"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M334.755 135.501l7.463 6.914-2.153 27.699s-8.18 4.449-19.661 3.588l5.31-32.291s1.138-5.79 7.243-6.483z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#473d59" d="M322.678 159.874s9.134-1.149 18.395-2.725l.464-5.968-14.914 4.414z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M342.218 142.416s5.178 4.891 2.01 9.902c-2.716 4.296-31.566 9.768-39.752 11.244-1.93.348-3.947-.105-5.451-1.363a5.89 5.89 0 0 1-.579-.553c-3.157.144-4.88-1.147-3.731-1.865 1.148-.718 4.902-1.722 4.902-1.722s.982-1.148-1.028-1.148c-2.008 0-1.721-2.498 2.44-2.54 4.162-.043 16.935-2.627 23.967-4.492 7.032-1.866 17.222-7.463 17.222-7.463"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".68" d="M298.446 161.647s2.153-.431 3.588-.861"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7229b5"
+                              d="M332.442 157.423c5.98-1.683 10.757-3.478 11.785-5.105 3.168-5.01-2.01-9.902-2.01-9.902s-7.356 4.04-13.882 6.4c1.444 1.705 3.43 4.666 4.107 8.607"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M331.024 133.661v3.66s-3.014 3.552-.861 3.229c2.153-.323 5.812-3.434 5.812-3.434v-6.684z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#7a2d33"
+                              d="M331.024 136.26c1.092-.417 3.28-1.545 4.467-4.174.334-.741.316-1.171.082-1.392l-4.55 2.967z"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M330.593 124.19s-2.475 3.443-3.444 6.888c-.97 3.445 0 3.552 0 3.552s2.69 1.076 6.566-.861c3.013-2.26 3.551-5.06 3.551-5.06s-3.551 0-4.305-3.12c-.538 3.014-2.26 1.722-2.368-1.4"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fc9d99"
+                              d="M339.042 130.81a1.776 1.776 0 1 1-3.552-.001 1.776 1.776 0 0 1 3.552 0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".6" d="M331.463 129.232s1.115-.224 2.11.468"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".6" d="M329.415 128.706s-.33-.32-1.22-.34"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff" d="M328.196 131.564l3.103.573s-2.656 1.637-3.103-.573"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#473d59" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".75" d="M331.993 127.94s1.113-.232 1.927.611"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#473d59" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".75" d="M330.365 127.557s-.798-.743-1.5-.552"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".6">
+                        <g opacity=".6">
+                            <g opacity=".6">
+                                <g opacity=".6"/>
+                                <g clip-path="url(#6mbbx)" opacity=".6">
+                                    <path fill="#d25c53"
+                                          d="M329.768 158.148a5.515 5.515 0 0 0-10.442 2.473c3.461-.751 7.071-1.59 10.442-2.473"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".6" d="M329.581 129.7v0l-.747 1.034v0l1.107.329v0"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="none" stroke="#aa4944" stroke-linecap="round" stroke-miterlimit="20"
+                              stroke-width=".6" d="M335.683 131.564l2.481-1.303"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)" opacity=".34">
+                        <g opacity=".34">
+                            <g opacity=".34">
+                                <g opacity=".34"/>
+                                <g clip-path="url(#6mbby)" opacity=".34">
+                                    <path fill="#fff"
+                                          d="M332.961 125.588c-.538 3.014-2.26 1.722-2.368-1.4 0 0-2.475 3.445-3.444 6.89-.969 3.444 0 3.552 0 3.552s1.259.501 3.293.2c2.137-1.75 3.616-4.818 4.398-6.779-.804-.448-1.573-1.195-1.879-2.463"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff"
+                              d="M315.119 228.127a.931.931 0 0 1-.932.932h-9.355a.931.931 0 0 1 0-1.863h9.355c.515 0 .932.417.932.931"/>
+                    </g>
+                    <g clip-path="url(#6mbbb)">
+                        <path fill="#fff"
+                              d="M341.727 47.812h-75.652l10.995-3.13s1.414-6.08 5.116-6.08c3.7 0 6.204 3.756 6.204 3.756s-.109-12.608 9.361-12.608 11.539 12.34 11.539 12.34 2.285-6.17 7.401-6.17 7.076 7.869 7.076 7.869z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

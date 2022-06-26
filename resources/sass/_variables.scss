@@ -1,0 +1,15 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Buttons
+$btn-border-radius: 1.875rem;
+
+.btn-primary {
+  background-image: linear-gradient(180deg, #eeedfd 0%, #6c63fb 100%);
+  border: none !important;
+}

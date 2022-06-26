@@ -1,0 +1,31 @@
+.what-we-do {
+  .info-block {
+    .todo-list {
+      width: 100%;
+      @include media-breakpoint-up(xl) {
+        width: unset;
+        position: absolute;
+        bottom: 0;
+        right: -215px;
+      }
+    }
+  }
+
+  .contact-block {
+    border-radius: 51px;
+    background-color: #ffffff;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    a {
+      font-weight: 300;
+      color: #000000;
+      text-decoration: none;
+      margin-top: 0.75rem;
+    }
+  }
+}
