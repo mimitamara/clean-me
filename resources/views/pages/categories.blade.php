@@ -19,9 +19,15 @@
 									<img src="{{ $category->getImage() }}" alt=""/>
 									<input id="name" type="hidden"  name="category" value="{{ $category->id }}">
 									<input id="comment" type="hidden"  name="comment" value="none">
+									@if(auth()->user())
 									<button type="submit" class="text-center mt-3 btn px-5" style="box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);border-radius: 18px;background-color: #f6f6f6;">
 										{{ $category->name }}
 									</button>
+									@else
+										<a href="{{ route('login') }}" class="text-center mt-3 btn px-5" style="box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);border-radius: 18px;background-color: #f6f6f6;">
+											{{ $category->name }}
+										</a>
+									@endif
 								</div>
 							</form>
 						@endforeach

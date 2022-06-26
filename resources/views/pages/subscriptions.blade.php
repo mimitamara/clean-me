@@ -13,7 +13,11 @@
 								<p class="fs-5">{{ $subscription->description }}</p>
 
 								<div class="text-center">
-									<a class="btn btn-primary px-5" href="{{ route('stripe', $subscription->id) }}">Buy</a>
+									@if(auth()->user())
+										<a class="btn btn-primary px-5" href="{{ route('stripe', $subscription->id) }}">Buy</a>
+									@else
+										<a class="btn btn-primary px-5" href="{{ route('login') }}">Buy</a>
+									@endif
 								</div>
 							</div>
 						@endforeach

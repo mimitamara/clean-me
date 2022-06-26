@@ -39,10 +39,6 @@ class StripeController extends Controller
      */
     public function stripePost(Subscription $subscription, Request $request)
     {
-        if (!auth()->user()) {
-            return redirect(route('login'));
-        }
-
         Stripe\Stripe::setApiKey(env('STRIPE_SECRET'));
         Stripe\Charge::create([
             "amount" => 100 * $subscription->price,
