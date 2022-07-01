@@ -79,14 +79,16 @@
 									</ul>
 								</div>
 
+								@if($currentTask?->id)
 								<div class="text-center">
-									<form method="post" action="{{ route('tasks.finish-step', $currentTask->id) }}">
+									<form method="post" action="{{ route('tasks.finish-step', $currentTask?->id) }}">
 										@csrf
 										<button class="btn btn-primary px-5">
 											Next Task
 										</button>
 									</form>
 								</div>
+								@endif
 							</div>
 						</div>
 					</div>
