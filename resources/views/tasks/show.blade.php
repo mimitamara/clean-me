@@ -8,7 +8,7 @@
 					<div class="pb-5" style="border-radius: 68px;background-color: #e2e6ef;">
 						<h1 class="mb-3">Your task progress: <span class="text-primary">{{ $task->category->name }}</span></h1>
 
-						@if($currentTask->step)
+						@if($currentTask?->step)
 							<div class="px-5 mb-5">
 								<p class="mb-0"><span style="font-size: 45px;color: #6c63ff;">{{ $currentTask->step->order }}.</span> {{ $currentTask->step->name }}</p>
 								<p style="font-size: 17px;">{{ $currentTask->step->instructions }}</p>
