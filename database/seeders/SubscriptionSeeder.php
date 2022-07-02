@@ -28,8 +28,12 @@ class SubscriptionSeeder extends Seeder
     public function run(): void
     {
         foreach (self::SUBSCRIPTIONS as $subscription) {
-            if (!Subscription::query()->where('name', $subscription['name'])->exists()) {
+            $subscriptionObj = Subscription::query()->where('name', $subscription['name'])->first();
+
+            if (!$subscriptionObj) {
                 Subscription::create($subscription);
+            } else {
+                $subscriptionObj::update($subscription);
             }
         }
     }
