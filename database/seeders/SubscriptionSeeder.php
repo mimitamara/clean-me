@@ -33,7 +33,7 @@ class SubscriptionSeeder extends Seeder
             if (!$subscriptionObj) {
                 Subscription::create($subscription);
             } else {
-                $subscriptionObj::update($subscription);
+                $subscriptionObj->update($subscription);
             }
         }
     }
