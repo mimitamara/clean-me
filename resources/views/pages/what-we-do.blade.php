@@ -8,20 +8,18 @@
 					<div class="info-block px-5 pb-5 my-5">
 						<h1>What we do</h1>
 						<p>
-							Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+							Clean Me ist eine Applikation um Menschen ein einfaches Putzen zu übermitteln.
+							Heutzutage kann man sich oft in einer Situation befinden, wo man vor einer Schmutzigen Ecke in der Wohnung oder im Haus befindet und keine Ahnung hat wie man die Putz-Prozedur zu beginnen hat. Die globale Pandemie war eines der größten Motivation, solch eine Applikation zu entwickeln.
 						</p>
 						<div class="row">
 							<div class="col-xl-8">
 								<p>
-									Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+									Personen, welche sonst Putzkraft zu Hause hatten, fanden sich plötzlich ohne jeglicher Hilfe vor dem Putzvorgang, ohne zu wissen wie zu handeln gehört. Dies ist nur eine vieler Situation die einem im Leben begegnen.
 								</p>
 								<p>
-									Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-									sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-									aliquyam erat, sed diam voluptua.
-									Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-									sed diam nonumy eirmod tempor invidunt ut labore et dolore
-									magna aliquyam erat, sed diam voluptua.
+									Die Applikation CleanME ist genau für solches da um unnötiges Googlen und Zeit zu sparen.
+									Die Webbasierte App leitet den Nutzer step-by-step durch die Anweisungen, die zum Putzen gebraucht werden. Somit muss man sich nicht mehr Sorgen machen, was als nächster Schritt zu beachten werden muss.
+									Diese Schritte werden auch gespeichert, sobald man aus der Kategorie raus muss um andere Kategorien zu beginnen. Eine Lebenserleichternde Applikation.
 								</p>
 							</div>
 							<div class="col-xl-4">

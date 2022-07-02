@@ -10,17 +10,17 @@ class SubscriptionSeeder extends Seeder
     public const SUBSCRIPTIONS = [
         [
             'name' => 'Free',
-            'description' => 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.',
+            'description' => 'Dieses Abonnement ist gratis, und hilft dir limitiert bei Tasks.',
             'price' => 0,
         ],
         [
             'name' => 'Basic',
-            'description' => 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.',
+            'description' => 'Hier kannst du dir schon unlimitiert hilfe holen inklusive tipps und tricks.',
             'price' => 99,
         ],
         [
             'name' => 'Premium',
-            'description' => 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.',
+            'description' => 'Bei diesem Abonnement kannst du dir alles aus dieser Applikation raus holen. Unlimitierte hilfe und vieles mehr.',
             'price' => 199,
         ]
     ];
