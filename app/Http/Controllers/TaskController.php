@@ -23,7 +23,11 @@ class TaskController extends Controller
         $stepsCount = $task->steps()->count();
         $doneSteps = $task->steps()->where('status', 'done')->count();
 
-        $progress = ($doneSteps/ $stepsCount) * 100;
+        if ($stepsCount) {
+            $progress = ($doneSteps/ $stepsCount) * 100;
+        } else {
+            $progress = 0;
+        }
 
         $currentTask = $task->steps->where('status', 'waiting')->first();
 
