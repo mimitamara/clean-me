@@ -16,7 +16,7 @@
 							<form method="POST" action="{{ route('tasks.store') }}">
 								@csrf
 								<div class="p-3 text-center">
-									<img src="{{ $category->getImage() }}" alt=""/>
+									<img src="{{ $category->getImage() }}" alt="" style="border-radius: 50%;width: 197px;height: 197px;-webkit-box-shadow: 5px 5px 20px -6px rgba(0,0,0,0.39);box-shadow: 5px 5px 20px -6px rgba(0,0,0,0.39);"/>
 									<input id="name" type="hidden"  name="category" value="{{ $category->id }}">
 									<input id="comment" type="hidden"  name="comment" value="none">
 									@if(auth()->user())
