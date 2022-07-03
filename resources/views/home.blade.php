@@ -60,6 +60,7 @@
     </div>
 </section>
 
+@guest()
 <section class="join-the-community py-5">
     <div class="container">
         <div class="row">
@@ -98,4 +99,12 @@
         </div>
     </div>
 </section>
+@endguest
+
+@auth
+<section class="py-5">
+    <div></div>
+</section>
+@endauth
+
 @endsection

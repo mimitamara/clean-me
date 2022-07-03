@@ -14,7 +14,7 @@
 								<p style="font-size: 17px;">{{ $currentTask->step->instructions }}</p>
 							</div>
 						@endif
-						<div class="d-flex justify-content-around">
+						<div class="d-flex flex-column align-items-center flex-lg-row justify-content-around">
 							<div class="d-flex justify-content-center align-items-center" style="width: 325px; height: 325px; border-radius: 100%; background: #fff; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);">
 								<div class="circle-wrap">
 									<div class="circle">
@@ -36,7 +36,7 @@
 							</div>
 
 							<div>
-								<div class="card mb-5" style="width: 18rem;">
+								<div class="card mt-5 mt-lg-0 mb-5" style="width: 18rem;">
 									<div class="card-header">
 										Tasks
 									</div>
