@@ -30,7 +30,7 @@
 					@foreach($tasks as $task)
 						<div class="row border-bottom py-2">
 							<div class="col">
-								<p class="fs-4 mb-0">{{ $task->category->name }}</p>
+								<p class="fs-4 mb-0">{{ $task->category?->name }}</p>
 							</div>
 
 							<div class="col">
