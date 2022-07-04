@@ -20,12 +20,16 @@ class TaskController extends Controller
 
     public function show(Task $task): View
     {
-        $stepsCount = $task->steps()->count();
-        $doneSteps = $task->steps()->where('status', 'done')->count();
+        try {
+            $stepsCount = $task->steps()->count();
+            $doneSteps = $task->steps()->where('status', 'done')->count();
 
-        if ($stepsCount) {
-            $progress = ($doneSteps/ $stepsCount) * 100;
-        } else {
+            if ($stepsCount) {
+                $progress = ($doneSteps/ $stepsCount) * 100;
+            } else {
+                $progress = 0;
+            }
+        } catch (\Exception $exception) {
             $progress = 0;
         }
 
