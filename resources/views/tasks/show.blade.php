@@ -10,7 +10,7 @@
 
 						@if($currentTask?->step)
 							<div class="px-5 mb-5">
-								<p class="mb-0"><span style="font-size: 45px;color: #6c63ff;">{{ $currentTask->step->order + 1 }}.</span> {{ $currentTask->step->name }}</p>
+								<p class="mb-0"><span style="font-size: 45px;color: #6c63ff;">{{ $currentTask->step->order }}.</span> {{ $currentTask->step->name }}</p>
 								<p style="font-size: 17px;">{{ $currentTask->step->instructions }}</p>
 							</div>
 						@endif

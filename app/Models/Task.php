@@ -29,4 +29,17 @@ class Task extends Model
     {
         return $this->hasMany(TaskStep::class);
     }
+
+    public function getStatus()
+    {
+        try {
+            $stepsCount = $this->steps()->count();
+            $doneSteps = $this->steps()->where('status', 'done')->count();
+            $finished = $stepsCount === $doneSteps ? 'finished' : 'waiting';
+        } catch (\Exception $exception) {
+            return 'waiting';
+        }
+
+        return $finished;
+    }
 }

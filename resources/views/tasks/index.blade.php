@@ -38,7 +38,9 @@
 							</div>
 
 							<div class="col">
-								<p class="fs-4 mb-0">{{ $task->status }}</p>
+								<p class="fs-4 mb-0">
+									{{ $task->getStatus() }}
+								</p>
 							</div>
 
 							<div class="col">

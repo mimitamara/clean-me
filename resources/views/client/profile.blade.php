@@ -5,13 +5,15 @@
 		<div class="container my-5 py-md-5" style="min-height: 500px">
 			<div class="row justify-content-center">
 				<div class="col-md-9">
-					<h1 class="text-center">Subscription</h1>
-					@if($client->subscription)
-						<p class="text-center"><b>Subscription plan:</b> {{ $client->subscription->subscription->name }} | <b>Active till:</b> {{ $client->subscription->active_till }}</p>
-					@else
-						<div class="text-center mb-3">
-							<a class="btn btn-primary" href="{{ route('pages.subscriptions') }}">Buy Subscription</a>
-						</div>
+					@if(auth()->user() && !auth()->user()->is_admin)
+						<h1 class="text-center">Subscription</h1>
+						@if($client->subscription)
+							<p class="text-center"><b>Subscription plan:</b> {{ $client->subscription->subscription->name }} | <b>Active till:</b> {{ $client->subscription->active_till }}</p>
+						@else
+							<div class="text-center mb-3">
+								<a class="btn btn-primary" href="{{ route('pages.subscriptions') }}">Buy Subscription</a>
+							</div>
+						@endif
 					@endif
 					<h1 class="text-center">Profile</h1>
 
