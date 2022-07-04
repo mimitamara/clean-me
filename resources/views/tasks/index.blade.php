@@ -12,9 +12,9 @@
 							<p class="fs-4 mb-0 fw-bold">Task</p>
 						</div>
 
-						<div class="col">
-							<p class="fs-4 mb-0 fw-bold">Comment</p>
-						</div>
+{{--						<div class="col">--}}
+{{--							<p class="fs-4 mb-0 fw-bold">Comment</p>--}}
+{{--						</div>--}}
 						<div class="col">
 							<p class="fs-4 mb-0 fw-bold">Status</p>
 						</div>
@@ -28,14 +28,15 @@
 
 					</div>
 					@foreach($tasks as $task)
+						@if($task->category)
 						<div class="row border-bottom py-2">
 							<div class="col">
 								<p class="fs-4 mb-0">{{ $task->category?->name }}</p>
 							</div>
 
-							<div class="col">
-								<p class="fs-6 mb-0">{{ $task->user_comment }}</p>
-							</div>
+{{--							<div class="col">--}}
+{{--								<p class="fs-6 mb-0">{{ $task->user_comment }}</p>--}}
+{{--							</div>--}}
 
 							<div class="col">
 								<p class="fs-4 mb-0">
@@ -51,6 +52,7 @@
 								<a class="btn btn-primary" href="{{ route('tasks.show', $task->id) }}">View Progress</a>
 							</div>
 						</div>
+						@endif
 					@endforeach
 				</div>
 			</div>
